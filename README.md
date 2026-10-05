@@ -26,15 +26,7 @@ Los niños **no se registran**: los da de alta un adulto con datos mínimos, y l
 
 ## Tecnologías
 
-| Capa | Tecnología |
-|---|---|
-| Backend | PHP *(framework por confirmar, propuesta: Laravel)* |
-| Base de datos | MySQL 8.0.16 o superior (InnoDB, `utf8mb4`) |
-| Frontend | HTML, CSS y JavaScript *(por confirmar: React + Vite o vistas de PHP)* |
-| Vídeos / juegos | iframe de youtube-nocookie · juegos propios en JavaScript/Canvas |
-| Accesibilidad | Web Speech API · objetivo WCAG 2.2 AA |
-| Control de versiones | Git + GitHub |
-| Despliegue | Docker + HTTPS |
+TBD
 
 ## Estructura del repositorio
 
