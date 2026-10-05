@@ -1,0 +1,13 @@
+{
+  "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
+  "intelephense.environment.phpVersion": "8.2.12",
+  "files.encoding": "utf8",
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 4,
+  "[html][css][javascript][json][markdown]": {
+    "editor.tabSize": 2
+  }
+}

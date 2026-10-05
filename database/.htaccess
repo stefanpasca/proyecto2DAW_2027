@@ -1,0 +1,7 @@
+# Desde el navegador solo se pueden abrir migrar.php y reset.php (y solo desde localhost, lo controla el propio PHP)
+<FilesMatch "\.(sql|md|bat)$">
+  Require all denied
+</FilesMatch>
+<Files "herramientas.php">
+  Require all denied
+</Files>

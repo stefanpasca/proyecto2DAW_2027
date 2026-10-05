@@ -1,0 +1,16 @@
+# Configuración local (contraseñas). Copia config/config.example.php como config/config.php
+config/config.php
+
+# Editores e IDEs (la carpeta .vscode SÍ se sube: es la configuración común del equipo)
+.idea/
+nbproject/
+
+# Sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Dependencias y registros
+/vendor/
+/node_modules/
+*.log
