@@ -10,7 +10,6 @@
  * ¡BORRA TODOS LOS DATOS de tu BD local!
  *
  *   - Navegador: http://localhost/proyecto2DAW_2027/database/reset.php
- *   - Doble clic en database\reset.bat
  *   - Consola:   C:\xampp\php\php.exe database\reset.php --si
  */
 

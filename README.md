@@ -47,7 +47,6 @@ Los niños **no se registran**: los da de alta un adulto con datos mínimos, y l
    (`config.php` no se sube a GitHub: cada uno tiene el suyo.)
 4. Abre **http://localhost/proyecto2DAW_2027/database/reset.php** y pulsa «Sí, reiniciar».
    Crea la BD `educate` con los datos de prueba y el usuario `educate_app` con tu contraseña.
-   *(También vale hacer doble clic en `database\reset.bat`.)*
 5. Abre **http://localhost/proyecto2DAW_2027/** → página de estado: todo debe salir en verde.
 6. En VS Code: *Archivo → Abrir carpeta* → `C:\xampp\htdocs\proyecto2DAW_2027` e instala las extensiones recomendadas que te propone.
 
@@ -65,7 +64,7 @@ Los niños **no se registran**: los da de alta un adulto con datos mínimos, y l
 
 1. Arranca Apache y MySQL en XAMPP.
 2. `git pull` para traer lo último.
-3. **Si han llegado migraciones nuevas**, abre `database/migrar.php` (o doble clic en `database\migrar.bat`).
+3. **Si han llegado migraciones nuevas**, abre `database/migrar.php`.
    La página de estado avisa si tienes alguna pendiente.
 4. Programa en tu rama, guarda y recarga el navegador (F5). No hay que compilar.
 5. `git add` + `git commit` + `git push` y abre un *pull request*.
@@ -95,8 +94,8 @@ proyecto2DAW_2027/
 ├── database/
 │   ├── educate.sql          BD v2.1 completa + datos de prueba
 │   ├── migraciones/         Cambios de la BD posteriores, numerados
-│   ├── migrar.php / .bat    Aplica las migraciones pendientes
-│   └── reset.php / .bat     Recrea la BD desde cero
+│   ├── migrar.php           Aplica las migraciones pendientes
+│   └── reset.php            Recrea la BD desde cero
 ├── includes/
 │   ├── bootstrap.php        Arranque común de todas las páginas
 │   ├── db.php               Conexión PDO: db()

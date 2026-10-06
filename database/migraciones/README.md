@@ -23,7 +23,7 @@ Así los tres tenemos siempre la misma BD sin reimportar nada.
      ADD COLUMN codigo_acceso VARCHAR(10) NULL UNIQUE AFTER nombre;
    ```
 
-3. Pruébala en tu ordenador con `database/migrar.php` (o `migrar.bat`).
+3. Pruébala en tu ordenador con `database/migrar.php`.
 4. Actualiza el diagrama DBML si cambia el modelo.
 5. Haz *commit* de la migración junto con el código PHP que la usa.
 

@@ -4,7 +4,6 @@
  *
  * Úsalo después de cada "git pull":
  *   - Navegador: http://localhost/proyecto2DAW_2027/database/migrar.php
- *   - Doble clic en database\migrar.bat
  *   - Consola:   C:\xampp\php\php.exe database\migrar.php
  *
  * Ejecuta, en orden, los archivos de database/migraciones/ que todavía no
