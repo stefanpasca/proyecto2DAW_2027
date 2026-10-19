@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "bmewburn.vscode-intelephense-client",
+    "xdebug.php-debug",
+    "ms-vsliveshare.vsliveshare",
+    "editorconfig.editorconfig",
+    "eamodio.gitlens"
+  ],
+  "unwantedRecommendations": [
+    "ritwickdey.liveserver",
+    "formulahendry.code-runner"
+  ]
+}
