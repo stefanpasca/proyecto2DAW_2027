@@ -6,7 +6,7 @@ Proyecto del módulo de Proyecto de 2º DAW · CPIFP Los Enlaces.
 
 | | |
 |---|---|
-| **Equipo** | Hugo, David y Stefan Pasca |
+| **Equipo** | Hugo, David Ultray Stefan Pasca |
 | **Tutor** | Oscar Ariño |
 
 ## Funcionalidades principales
